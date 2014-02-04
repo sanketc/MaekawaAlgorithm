@@ -5,6 +5,8 @@ Author: Sanket Chandorkar
 
 About: 
 
+Implementation of Maekawa's Quorum Based Mutual Exclusion Algorithm.
+
 This project is Implementation of Paper:
 M. Maekawa. A Root N Algorithm for Mutual Exclusion in Decentralized Systems. 
 ACM Transactions on Computer Systems, pages 145{159, May 1985.
